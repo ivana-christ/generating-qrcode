@@ -1,6 +1,7 @@
 # Gerando qrcode
 
 Este repositório contém um código em __Python__ para __gerar QR codes de forma simples e rápida__. 
+
 É usado a biblioteca qrcode para criar os QR codes a partir de dados fornecidos pelo usuário, como URLs, texto ou informações de contato. 
 
 # Como usar:
