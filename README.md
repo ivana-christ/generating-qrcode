@@ -1,0 +1,2 @@
+# generating-qrcode
+ Gerando QRCODE
